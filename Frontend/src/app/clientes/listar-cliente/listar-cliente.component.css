@@ -1,0 +1,15 @@
+.botones-tabla{
+    /* width: 30%; */
+    background-color: #1d75da;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 5px;
+    transition: 0.2s;
+}
+
+.botones-tabla:hover{
+    background-color: #0f4b8e;
+}
